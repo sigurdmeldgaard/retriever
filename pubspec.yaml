@@ -1,0 +1,6 @@
+name: retriever
+
+dependencies:
+  collection:
+  pool:
+  http:
